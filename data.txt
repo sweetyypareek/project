@@ -1,3 +1,4 @@
 first line
 line branch1
 conflict
+conf

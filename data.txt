@@ -1,4 +1,8 @@
 first line
 line branch1
-conflict
+<<<<<<< HEAD
+conflict1
 conf
+=======
+conflict1
+>>>>>>> branch1

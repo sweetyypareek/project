@@ -1,5 +1,5 @@
 first line
-line master1
+complete master1
 conflict1
 conf
 

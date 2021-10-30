@@ -1,5 +1,5 @@
 first line
-line branch1
+line master
 conflict1
 conf
 

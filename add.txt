@@ -1,6 +1,11 @@
 add()
 {
-a-b
+a+b
 }
 
 xxxxx
+
+sub()
+{
+a-b
+}
